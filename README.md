@@ -1,6 +1,7 @@
 # gimp-scripts-process-scanned-images
 
 GIMP scripts to process scanned images
+
 使用GIMP脚本来自动化处理扫描的照片
 
 # install scripts
@@ -14,5 +15,7 @@ see
 
 
 # links:
+
 https://github.com/dmig/DivideScannedImages
+
 https://gist.github.com/AndrewKvalheim/3702395
