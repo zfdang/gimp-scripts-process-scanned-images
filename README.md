@@ -14,6 +14,10 @@ It can be found in the Preferences: Folders → Scripts.
 
 # tutorial
 
+两种方法来切分图片：自动切分；手工选择区域然后自动导出
+
+具体可以看视频介绍：
+
 see https://www.bilibili.com/video/BV1DV4y1J7Vd/?vd_source=1ad9278c2042bd6f1a1b1d0bc7e8de17
 
 
