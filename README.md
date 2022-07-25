@@ -11,7 +11,7 @@ It can be found in the Preferences: Folders → Scripts.
 
 # tutorial
 
-see 
+see https://www.bilibili.com/video/BV1DV4y1J7Vd/?vd_source=1ad9278c2042bd6f1a1b1d0bc7e8de17
 
 
 # links:
