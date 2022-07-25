@@ -3,6 +3,8 @@
 GIMP scripts to process scanned images
 
 使用GIMP脚本来自动化处理扫描的照片
+
+
 自动切图 自动切分 split divide images photos
 
 # install scripts
