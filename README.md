@@ -12,6 +12,10 @@ GIMP scripts to process scanned images
 If you have downloaded a script, copy or move it to your scripts directory. 
 It can be found in the Preferences: Folders → Scripts.
 
+把脚本安装到GIMP的脚本目录里
+
+Gimp -> settings -> Folders -> Scripts
+
 # tutorial
 
 两种方法来切分图片：自动切分；手工选择区域然后自动导出
@@ -19,6 +23,11 @@ It can be found in the Preferences: Folders → Scripts.
 具体可以看视频介绍：
 
 see https://www.bilibili.com/video/BV1DV4y1J7Vd/?vd_source=1ad9278c2042bd6f1a1b1d0bc7e8de17
+
+菜单的位置分别是：
+
+Tools -> Batch divide scanned images
+Select -> Export Selected Regions
 
 
 # links:
