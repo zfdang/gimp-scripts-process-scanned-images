@@ -26,8 +26,9 @@ see https://www.bilibili.com/video/BV1DV4y1J7Vd/?vd_source=1ad9278c2042bd6f1a1b1
 
 菜单的位置分别是：
 
-Tools -> Batch divide scanned images
-Select -> Export Selected Regions
+  Tools -> Batch divide scanned images
+
+  Select -> Export Selected Regions
 
 
 # links:
